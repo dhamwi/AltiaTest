@@ -1,2 +1,2 @@
 # AltiaTest
-Añadido en la carpeta de resources la colección de POSTMAN exportado con todos los métodos necesarios para probarlo.
+Añadido en la carpeta de resources el archivo con la colección de POSTMAN, con todos los métodos necesarios para probarlo.
